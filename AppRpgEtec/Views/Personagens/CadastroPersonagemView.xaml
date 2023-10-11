@@ -6,6 +6,8 @@
              Title="CadastroPersonagemView">
     <ScrollView>
         <VerticalStackLayout Spacing="3" Padding="15">
+            <Label Text="Id" FontSize="Medium" />
+            <Entry Text="{Binding Id}" IsEnabled="False" FontSize="Medium" />
             <Label Text="Nome" FontSize="Medium" />
             <Entry Text="{Binding Nome}" FontSize="Medium" />
             <Label Text="Classe" FontSize="Medium" />

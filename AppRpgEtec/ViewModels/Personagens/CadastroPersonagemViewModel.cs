@@ -12,6 +12,7 @@ using System.Windows.Input;
 
 namespace AppRpgEtec.ViewModels.Personagens
 {
+    [QueryProperty("PersonagemSelecionadoId", "pId")]
     public class CadastroPersonagemViewModel : BaseViewModel
     {
         private PersonagemService pService;
@@ -133,6 +134,20 @@ namespace AppRpgEtec.ViewModels.Personagens
             }
 
         }
+
+        private string personagemSelecionadoId;
+        public string PersonagemSelecionadoId
+        {
+            set
+            {
+                if (value != null)
+                {
+                    personagemSelecionadoId = Uri.UnescapeDataString(value);
+                    CarregarPersonagem();
+                }
+            }
+        }
+
         public async Task ObterClasses()
         {
             try
@@ -164,6 +179,36 @@ namespace AppRpgEtec.ViewModels.Personagens
 
         }
 
+
+        public async void CarregarPersonagem()
+        {
+            try
+            {
+                Personagem p = await
+                    pService.GetPersonagemAsync(int.Parse(personagemSelecionadoId));
+                this.Nome = p.Nome;
+                this.PontosVida = p.PontosVida;
+                this.Defesa = p.Defesa;
+                this.Derrotas = p.Derrotas;
+                this.Disputas = p.Disputas;
+                this.Forca = p.Forca;
+                this.Inteligencia = p.Inteligencia;
+                this.Vitorias = p.Vitorias;
+                this.Id = p.Id;
+
+                TipoClasseSelecionado = this.ListaTiposClasse
+                    .FirstOrDefault(tClasse => tClasse.Id == (int)p.Classe);
+
+
+            }
+            catch (Exception ex)
+            {
+                await Application.Current.MainPage
+                    .DisplayAlert("Op´s", ex.Message + "Detalhes:" + ex.InnerException, "Ok");
+            }
+
+
+        }
         public async Task SalvarPersonagem()
         {
             try
@@ -202,6 +247,9 @@ namespace AppRpgEtec.ViewModels.Personagens
             await Shell.Current.GoToAsync("..");
         }
     }
+
+
 }
+
 
 

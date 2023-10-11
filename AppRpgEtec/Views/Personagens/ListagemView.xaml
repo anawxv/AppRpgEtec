@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppRpgEtec.Views.Personagens.ListagemView"
+             Title="ListagemView">
+
+    <Shell.TitleView>
+        <Button Command="{Binding NovoPersonagem}" Text ="Novo" HorizontalOptions= "End"></Button>
+    </Shell.TitleView>
+    
+    <VerticalStackLayout Padding="10, 0, 0, 0" VerticalOptions="FillAndExpand">
+        <ListView x:Name="listView" HasUnevenRows="True" ItemsSource="{Binding Personagens}" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10">
+                            <Label Text="{Binding Nome}" FontSize="18" FontAttributes="Bold"/>
+                            <Label Text="{Binding PontosVida}" FontSize="14"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </VerticalStackLayout>
+</ContentPage>

@@ -8,87 +8,87 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppRpgEtec
-build_property.ProjectDir = D:\ana\AppRpgEtec\AppRpgEtec\AppRpgEtec\
+build_property.ProjectDir = D:\LIVIA\AppRpgEtec\AppRpgEtec\
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/AboutView.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/AboutView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.AboutView.xaml
 build_metadata.AdditionalFiles.TargetPath = AboutView.xaml
 build_metadata.AdditionalFiles.RelativePath = AboutView.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/App.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/AppShell.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/DescriptionView.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/DescriptionView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.DescriptionView.xaml
 build_metadata.AdditionalFiles.TargetPath = DescriptionView.xaml
 build_metadata.AdditionalFiles.RelativePath = DescriptionView.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/MainPage.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/Resources/Styles/Colors.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/Resources/Styles/Styles.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/Views/Disputas/ListagemView.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/Views/Disputas/ListagemView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.Views.Disputas.ListagemView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Disputas\ListagemView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Disputas\ListagemView.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/Views/Personagens/CadastroPersonagemView.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/Views/Personagens/CadastroPersonagemView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.Views.Personagens.CadastroPersonagemView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Personagens\CadastroPersonagemView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Personagens\CadastroPersonagemView.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/Views/Personagens/ListagemView.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/Views/Personagens/ListagemView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.Views.Personagens.ListagemView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Personagens\ListagemView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Personagens\ListagemView.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/Views/Usuarios/CadastroView.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/Views/Usuarios/CadastroView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.Views.Usuarios.CadastroView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Usuarios\CadastroView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Usuarios\CadastroView.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/Views/Usuarios/ListagemView.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/Views/Usuarios/ListagemView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.Views.Usuarios.ListagemView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Usuarios\ListagemView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Usuarios\ListagemView.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/Views/Usuarios/LocalizacaoView.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/Views/Usuarios/LocalizacaoView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.Views.Usuarios.LocalizacaoView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Usuarios\LocalizacaoView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Usuarios\LocalizacaoView.xaml
 
-[D:/ana/AppRpgEtec/AppRpgEtec/AppRpgEtec/Views/Usuarios/LoginView.xaml]
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/Views/Usuarios/LoginView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.Views.Usuarios.LoginView.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Usuarios\LoginView.xaml

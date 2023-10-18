@@ -26384,11 +26384,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ana\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+      "projectUniqueName": "D:\\LIVIA\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
       "projectName": "AppRpgEtec",
-      "projectPath": "D:\\ana\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+      "projectPath": "D:\\LIVIA\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\ana\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec\\obj\\",
+      "outputPath": "D:\\LIVIA\\AppRpgEtec\\AppRpgEtec\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

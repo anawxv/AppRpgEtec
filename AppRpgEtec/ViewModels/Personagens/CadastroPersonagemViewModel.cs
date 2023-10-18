@@ -16,7 +16,7 @@ namespace AppRpgEtec.ViewModels.Personagens
     public class CadastroPersonagemViewModel : BaseViewModel
     {
         private PersonagemService pService;
-        public ICommand SalvarCommand { get; }
+        public ICommand SalvarCommand { get; } 
         public ICommand CancelarCommand { get; set; }
 
         public CadastroPersonagemViewModel()
@@ -228,6 +228,8 @@ namespace AppRpgEtec.ViewModels.Personagens
                 };
                 if (model.Id == 0)
                     await pService.PostPersonagemAsync(model);
+
+                else await pService.PutPersonagemAsync(model);
 
                 await Application.Current.MainPage
                     .DisplayAlert("Mensagem", "Dados salvos com sucesso!", "Ok");

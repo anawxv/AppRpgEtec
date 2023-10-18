@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
-using Xamarin.Google.Crypto.Tink.Subtle;
 
 namespace AppRpgEtec.ViewModels.Personagens
 {

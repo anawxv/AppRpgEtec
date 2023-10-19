@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5eZ5frYRMX04bR77rWY/x7RHTDYqeeGSh+uqLHXg9omJO0srJRR1ZsEFQjAZTd0YtvG8kGfty7ULEDsdH3wjZw==",
+  "dgSpecHash": "gY+MJiCV+cuuzHhrPwPXuqeentkrg8qoJaNlJKTie7ni8VrY6ULqGE/ldmPyJCpAwYJ+rDdeRSMBSzZbq6RDYg==",
   "success": true,
   "projectFilePath": "D:\\LIVIA\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,8 @@
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.221209.1\\microsoft.windowsappsdk.1.2.221209.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.android.glide\\4.13.2.2\\xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.android.glide.annotations\\4.13.2.2\\xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.android.glide.disklrucache\\4.13.2.2\\xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",
@@ -94,6 +96,7 @@
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.androidx.viewpager2\\1.0.0.16\\xamarin.androidx.viewpager2.1.0.0.16.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.androidx.window\\1.0.0.10\\xamarin.androidx.window.1.0.0.10.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.build.download\\0.11.3\\xamarin.build.download.0.11.3.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.google.android.material\\1.7.0\\xamarin.google.android.material.1.7.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.google.crypto.tink.android\\1.7.0.1\\xamarin.google.crypto.tink.android.1.7.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.10\\xamarin.google.guava.listenablefuture.1.0.0.10.nupkg.sha512",

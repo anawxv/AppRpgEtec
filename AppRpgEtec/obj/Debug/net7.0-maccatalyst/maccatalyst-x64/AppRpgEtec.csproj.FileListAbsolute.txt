@@ -1701,3 +1701,5 @@ D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\refi
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\AppRpgEtec.pdb
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\AppRpgEtec.genruntimeconfig.cache
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ref\AppRpgEtec.dll
+D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Plugin.Media.dll
+D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Xamarin.Essentials.dll

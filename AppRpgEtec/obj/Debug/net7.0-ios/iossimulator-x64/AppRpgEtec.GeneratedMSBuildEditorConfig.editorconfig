@@ -76,6 +76,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.Views.Usuarios.
 build_metadata.AdditionalFiles.TargetPath = Views\Usuarios\CadastroView.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Usuarios\CadastroView.xaml
 
+[D:/LIVIA/AppRpgEtec/AppRpgEtec/Views/Usuarios/ImagemUsuarioView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.Views.Usuarios.ImagemUsuarioView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Usuarios\ImagemUsuarioView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Usuarios\ImagemUsuarioView.xaml
+
 [D:/LIVIA/AppRpgEtec/AppRpgEtec/Views/Usuarios/ListagemView.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppRpgEtec.Views.Usuarios.ListagemView.xaml

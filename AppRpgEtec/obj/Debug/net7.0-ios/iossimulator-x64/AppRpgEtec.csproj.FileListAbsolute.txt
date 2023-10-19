@@ -1762,3 +1762,5 @@ D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-ios\iossimulator-x64\refint\AppR
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-ios\iossimulator-x64\AppRpgEtec.pdb
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-ios\iossimulator-x64\AppRpgEtec.genruntimeconfig.cache
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-ios\iossimulator-x64\ref\AppRpgEtec.dll
+D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Plugin.Media.dll
+D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Xamarin.Essentials.dll

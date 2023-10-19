@@ -30,6 +30,7 @@ bitmap;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\165\jl\res\dra
 bitmap;obj\Debug\net7.0-android\resizetizer\sp\drawable\maui_splash_image.xml
 bitmap;obj\Debug\net7.0-android\resizetizer\sp\drawable-v31\maui_splash_image.xml
 cache-path;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\162\jl\res\xml\microsoft_maui_essentials_fileprovider_file_paths.xml
+cache-path;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\174\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\161\jl\res\values\colors.xml
 color;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\165\jl\res\values\values.xml
 color;obj\Debug\net7.0-android\res\values\colors.xml
@@ -211,7 +212,9 @@ eat-comment;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\167\jl\re
 enum;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\165\jl\res\values\values.xml
 enum;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\167\jl\res\values\values.xml
 external-cache-path;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\162\jl\res\xml\microsoft_maui_essentials_fileprovider_file_paths.xml
+external-cache-path;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\174\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\162\jl\res\xml\microsoft_maui_essentials_fileprovider_file_paths.xml
+external-path;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\174\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 foreground;obj\Debug\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 integer;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\166\jl\res\values\values.xml
@@ -252,6 +255,7 @@ microsoft.maui.controls.platform.compatibility.ShellFlyoutLayout;D:\LIVIA\AppRpg
 padding;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_disabled.xml
 padding;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_text_disabled.xml
 paths;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\162\jl\res\xml\microsoft_maui_essentials_fileprovider_file_paths.xml
+paths;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\174\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\157\jl\res\values\strings.xml
 resources;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\158\jl\res\values\attrs.xml
 resources;D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-android\lp\158\jl\res\values\styles.xml

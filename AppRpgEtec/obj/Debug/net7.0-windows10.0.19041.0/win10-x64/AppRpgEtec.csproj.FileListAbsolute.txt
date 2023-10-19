@@ -2175,3 +2175,5 @@ D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qu
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Plugin.Media.dll
+D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Xamarin.Essentials.dll

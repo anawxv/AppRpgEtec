@@ -1428,6 +1428,8 @@ D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Micr
 D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
 D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Maps.dll
 D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Newtonsoft.Json.dll
+D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Plugin.Media.dll
+D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Xamarin.Essentials.dll
 D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
 D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
 D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
@@ -1701,5 +1703,3 @@ D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\refi
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\AppRpgEtec.pdb
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\AppRpgEtec.genruntimeconfig.cache
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ref\AppRpgEtec.dll
-D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Plugin.Media.dll
-D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Xamarin.Essentials.dll

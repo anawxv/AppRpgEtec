@@ -2,7 +2,15 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppRpgEtec.Views.Usuarios.ImagemUsuarioView"
+             xmlns:conv="clr-namespace:AppRpgEtec.Converters"
              Title="ImagemUsuarioView">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <conv:ByteArrayToImageSourceConverter x:Key="ByteArrayToImage" />
+        </ResourceDictionary>
+    </ContentPage.Resources> 
+    
     <ScrollView>
         <VerticalStackLayout>
             <ScrollView>
@@ -26,7 +34,8 @@ Grid.Row="0" Command="{Binding SalvarImagemCommand}" />
                     </Grid>
                 </VerticalStackLayout>
             </ScrollView>
-            <Image Source="{Binding FonteImagem}" Margin="10"/>
+            <Image WidthRequest="400" HeightRequest="400" Margin="20"
+                   Source="{Binding Foto, Converter={StaticResource ByteArrayToImage}}" />
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

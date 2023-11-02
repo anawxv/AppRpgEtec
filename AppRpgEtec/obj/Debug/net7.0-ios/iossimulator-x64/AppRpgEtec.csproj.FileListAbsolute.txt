@@ -1479,6 +1479,8 @@ D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.M
 D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
 D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Maps.dll
 D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Newtonsoft.Json.dll
+D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Plugin.Media.dll
+D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Xamarin.Essentials.dll
 D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.CSharp.dll
 D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
 D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
@@ -1762,5 +1764,3 @@ D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-ios\iossimulator-x64\refint\AppR
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-ios\iossimulator-x64\AppRpgEtec.pdb
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-ios\iossimulator-x64\AppRpgEtec.genruntimeconfig.cache
 D:\LIVIA\AppRpgEtec\AppRpgEtec\obj\Debug\net7.0-ios\iossimulator-x64\ref\AppRpgEtec.dll
-D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Plugin.Media.dll
-D:\LIVIA\AppRpgEtec\AppRpgEtec\bin\Debug\net7.0-ios\iossimulator-x64\Xamarin.Essentials.dll

@@ -17,7 +17,7 @@
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.CAMERA" />
-  <application android:allowBackup="true" android:icon="@mipmap/appicon" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true" android:name="crc648cace2d65dd9830e.MainApplication" android:usesCleartextTraffic="true" android:label="AppRpgEtec" android:debuggable="true" android:extractNativeLibs="true">
+  <application android:allowBackup="true" android:icon="@mipmap/has_logo_transparente" android:roundIcon="@mipmap/has_logo_transparente_round" android:supportsRtl="true" android:name="crc648cace2d65dd9830e.MainApplication" android:usesCleartextTraffic="true" android:label="Rpg Etec " android:debuggable="true" android:extractNativeLibs="true">
     <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyD4r0nlFSo80wMvwlvbk1QGbtkZ7bIbdoM"></meta-data>
     <provider android:name="androidx.core.content.FileProvider" android:authorities="com.companyname.apprpgetec.fileprovider" android:exported="false" android:grantUriPermissions="true">
       <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"></meta-data>

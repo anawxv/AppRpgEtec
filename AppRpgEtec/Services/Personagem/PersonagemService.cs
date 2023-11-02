@@ -1,11 +1,11 @@
-﻿using AppRpgEtec.Models.Personagens;
-using System.Collections.ObjectModel;
+﻿using System.Collections.ObjectModel;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AppRpgEtec.Models.Personagens;
 
 namespace AppRpgEtec.Services.Personagens
 {
@@ -19,6 +19,17 @@ namespace AppRpgEtec.Services.Personagens
         {
             _request = new Request();
             _token = token;
+        }
+
+        public async Task<ObservableCollection<Personagem>>GetPersonagensByNomeAsync(string busca)
+        {
+            string urlComplementar = string.Format("{0}", "/GetAll");
+
+            ObservableCollection<Models.Personagem> listaPersonagem = await
+                _request.GetAsync<ObservableCollection<Models.Personagem>>(apiUrlBase + urlComplementar, _token);
+            var personagensFiltrados = listaPersonagem.Where(p => p.Nome.ToLower().Contains(busca.ToLower()));
+
+            return new ObservableCollection<Personagem>((List<Personagem>)personagensFiltrados);
         }
 
         public async Task<int> PostPersonagemAsync(Personagem p)
@@ -51,5 +62,8 @@ namespace AppRpgEtec.Services.Personagens
             var result = await _request.DeleteAsync(apiUrlBase + urlComplementar, _token);
             return result;
         }
+
+     
     }
+
 }
